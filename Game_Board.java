@@ -1,9 +1,4 @@
 /*	Project CS 112
- * 
- * 	Name 	: Mohammed Umer Raheemuddin
- *  Id	 	: 4110718
- *  Section : L03
- *  
  *  
  *  Program Description:
  *  
