@@ -1,10 +1,4 @@
-/*	Project CS 112
- * 
- * 	Name 	: Mohammed Umer Raheemuddin
- *  Id	 	: 4110718
- *  Section : L03
- *  
- *  
+/*  
  *  Program Description:
  *  
  *  This program is a game in which the player (blue) has to compete with the enemy (red) in eating the food (green).
